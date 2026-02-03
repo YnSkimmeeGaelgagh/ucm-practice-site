@@ -70,7 +70,7 @@ a {
 
 #image-carousel {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     /* align-items: center; */
     border: 2px solid black;
     overflow-x: hidden;
@@ -83,7 +83,7 @@ a {
 
 #carousel-images {
     display: flex;
-    justify-content: center;
+    /* justify-content: center; */
     /* align-items: center; */
     width: 100%;
     overflow-x: scroll;
