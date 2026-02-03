@@ -70,8 +70,6 @@ a {
 
 #image-carousel {
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
     border: 2px solid black;
     overflow-x: hidden;
     width: 50%;
@@ -83,8 +81,6 @@ a {
 
 #carousel-images {
     display: flex;
-    /* justify-content: center; */
-    /* align-items: center; */
     width: 100%;
     overflow-x: scroll;
     scroll-snap-type: x-mandatory;
