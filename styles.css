@@ -71,6 +71,7 @@ a {
 #image-carousel {
     border: 2px solid black;
     overflow-x: none;
+    width: 100%;
 }
 
 #carousel-images {
