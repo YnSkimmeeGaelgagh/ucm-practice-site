@@ -52,15 +52,18 @@ body {
 #link-container {
     display: flex;
     justify-content: center;
+    gap: 10px;
+    background-color: #333;
 }
 
 .link {
+    display: flex;
+    justify-content: center;
     background-color: darkgray;
     width: 100px;
     height: 50px;
     color: white;
     border: 2px solid black;
-    border-radius: 15px;
 }
 
 a {
