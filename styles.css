@@ -84,7 +84,7 @@ a {
 #carousel-images {
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     width: 100%;
     overflow-x: scroll;
     scroll-snap-type: x-mandatory;
