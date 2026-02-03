@@ -1,0 +1,9 @@
+const images = document.getElementsByClassName("process-image");
+let imageNumber = 0;
+
+function nextImage () {
+    images[imageNumber].scrollIntoView();
+};
+
+const carousel = document.getElementById("image-carousel");
+carousel.addEventListener("click", nextImage);
