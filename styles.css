@@ -59,9 +59,10 @@ body {
 .link {
     display: flex;
     justify-content: center;
+    align-items: center;
     background-color: darkgray;
     width: 100px;
-    height: 50px;
+    height: 25px;
     color: white;
     border: 2px solid black;
 }
