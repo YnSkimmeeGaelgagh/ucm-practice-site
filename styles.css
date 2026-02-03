@@ -95,7 +95,3 @@ a {
     scroll-snap-align: start;
     object-fit: cover;
 }
-
-.process-content {
-    overflow-y: hidden;
-}
