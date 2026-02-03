@@ -70,4 +70,15 @@ a {
 
 #image-carousel {
     border: 2px solid black;
+    overflow-x: none;
+}
+
+#carousel-images {
+    overflow-x: scroll;
+    scroll-snap-type: x-mandatory;
+}
+
+.process-image {
+    width: 100%;
+    scroll-snap-align: start;
 }
